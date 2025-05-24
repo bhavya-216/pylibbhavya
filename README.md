@@ -103,8 +103,8 @@ value_counts_all(df)
 
 
 🧑‍💻 Developer
-Pavan Aditya Kumar Gorrela
-Artificial Intelligence & Data Science | ML & Web Dev Enthusiast
+Bhavya Sree Pasumarthi
+Artificial Intelligence & Data Science | DS & Web Dev Enthusiast
 
 📜 License
 This project is licensed under the MIT License. Feel free to use and modify!
